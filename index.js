@@ -32,7 +32,7 @@ app.get('/crawler', (req, res) => {
     }
   });
   c.queue([{
-    uri: 'http://localhost:3000/wmp',
+    uri: 'https://mock-app.herokuapp.com/wmp',
     jQuery: true,
  
     // The global callback won't be called
@@ -42,10 +42,8 @@ app.get('/crawler', (req, res) => {
           res.send('error')
       } else {
           const $ = data.$;
-          console.log('Grabbed', data.body.length, 'bytes');
           fs.writeFileSync('./output.txt', data.body)
-        const priceDom = $('.price .sale_box .sale_price .num');
-        console.log(priceDom)
+          const priceDom = $('.price .sale_box .sale_price .num');
           res.send(priceDom.text())
         }
         done();
