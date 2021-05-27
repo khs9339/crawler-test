@@ -6,6 +6,11 @@ const port = 3000
 
 const Crawler = require("crawler");
 
+app.get('/', (req, res) => {
+  res.send('Hello Crawler Test')
+})
+
+
 app.get('/wmp', (req, res) => {
   res.sendFile(`${__dirname}/target.html`)
 })
