@@ -2,7 +2,6 @@
 const express = require('express')
 const fs = require('fs-extra')
 const app = express()
-const port = 3000
 
 const Crawler = require("crawler");
 
