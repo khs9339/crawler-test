@@ -1,124 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="ko">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta http-equiv="imagetoolbar" content="no" />
-    <meta name="google-site-verification" content="7XvKixjv5n9GvFMOsIcDdiU_QOcI999_O63lowxlPa4" />
-
-    
-    
-        <meta property="og:title" content="백제 우리쌀 햅쌀 떡국8개/16개 ▶ 구경하러가기">
-        <meta property="og:url" content="//front.wemakeprice.com/deal/600143573">
-          <meta property="og:image" content="https://view01.wemep.co.kr/wmp-deal/3/357/600143573/600143573.jpg?1609145628">
-        <meta property="og:description" content="고객의 돈과 시간을 아껴주는 위메프">
-    
-    
-    
-    
-    
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="WeMakePrice">
-    <meta name="description" content="No.1 특가커머스! 패션/뷰티, 식품/생활/유아동, 가전/디지털, 공연/티켓, 여행/레저, 지역서비스 할인">
-    <meta name="naver-site-verification" content="9394db44b387ad4406349e3e94673ec68280efda">
-
-    <title>특가대표! 위메프</title>
-
-    
-        <link rel="shortcut icon" type="image/x-icon" href="https://view01.wemep.co.kr/wmp-favicon/56/201802/25/fvc_tyz3wil8h3aj.ico">
-
-    
-    
-    
-          <link rel="stylesheet" href="//s.wemep.co.kr/ui/v2.8.216/dist/pc/css/common/common.css">
-    
-    
-    
-    
-    
-          <link rel="stylesheet" href="//s.wemep.co.kr/ui/v2.8.216/dist/pc/css/common/layout.css">
-    
-    
-    
-    
-    
-        <link rel="stylesheet" href="//s.wemep.co.kr/front/assets/css/motion.css?20210402_1">
-    
-    
-    
-    
-    
-    
-    
-    
-          <link rel="stylesheet" href="//s.wemep.co.kr/ui/v2.8.216/dist/pc/css/pages/deals.css">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-        <script src="//s.wemep.co.kr/front/assets/js/pc/vendor.js?20210402_1"></script>
-    
-    
-    
-    
-        <script src="//s.wemep.co.kr/front/assets/js/pc/plugins.js?20210402_1"></script>
-    
-    
-    <script>
-    GV.set('initialData', JSON.parse('{"dealNo":600143573,"dealNm":"백제 우리쌀 햅쌀 떡국8개/16개","lcateCd":1100000,"lcateNm":"가공식품","lcateDispYn":"Y","lcateUseYn":"Y","mcateCd":2100003,"mcateNm":"즉석조리식품","mcateDispYn":"Y","mcateUseYn":"Y","scateCd":3100014,"scateNm":"즉석밥/카레/죽","scateDispYn":"Y","scateUseYn":"Y","dcateCd":4100088,"dcateNm":"즉석국/찌개/탕","dcateDispYn":"Y","dcateUseYn":"Y","shopKind":null,"shopLcateCd":null,"shopLcateNm":null,"shopMcateCd":null,"shopMcateNm":null,"ogTitle":"백제 우리쌀 햅쌀 떡국8개/16개","saleStatus":"A","tmplPc":"1","tmplPcOptDispYn":"N","tmplMobile":"1","tmplMobileOptDispYn":"N","adultLimitYn":"N","salePriceSuffix":"外","salesCountTotal":194,"dealEndDt":null,"currentDt":null,"sticker":{"stickers":[],"labels":[],"serverTime":1622084847499},"detail":{"desc":null,"imgList":[{"imgUrl":"https://view01.wemep.co.kr/wmp-deal/3/357/600143573/dl_lkbtbemyhzpx.jpg","imgWidth":758,"imgHeight":1421},{"imgUrl":"https://view01.wemep.co.kr/wmp-deal/3/357/600143573/dl_hfn1mk3bzp4p.jpg","imgWidth":758,"imgHeight":600},{"imgUrl":"https://view01.wemep.co.kr/wmp-deal/3/357/600143573/dl_5htrllqz5jyo.jpg","imgWidth":758,"imgHeight":585}],"useYn":"Y","type":"IMG"},"mainImgList":[{"origin":{"imgUrl":"https://view01.wemep.co.kr/wmp-deal/3/357/600143573/600143573.jpg?1609145628","imgWidth":460,"imgHeight":460},"thumb":{"imgUrl":"https://view01.wemep.co.kr/wmp-deal/3/357/600143573/600143573_thumbnail.jpg?1609145628","imgWidth":70,"imgHeight":70}}],"prodMain":{"basic":{"prodNo":320418286,"prodNm":"[밥상마루] 두번 반죽해 더 쫄깃한 전통 떡국 164g * 4개","prodType":"N","mallType":"NOR","saleStatus":"A","brandNo":null,"brandDispNm":null,"brandNm":null,"brandNmEng":null,"brandLogoImgUrl":null,"lcateCd":1100000,"lcateNm":"가공식품","lcateDispYn":"Y","lcateUseYn":"Y","mcateCd":2100003,"mcateNm":"즉석조리식품","mcateDispYn":"Y","mcateUseYn":"Y","scateCd":3100014,"scateNm":"즉석밥/카레/죽","scateDispYn":"Y","scateUseYn":"Y","dcateCd":4100088,"dcateNm":"즉석국/찌개/탕","dcateDispYn":"Y","dcateUseYn":"Y","shopKind":null,"shopLcateCd":null,"shopLcateNm":null,"shopMcateCd":null,"shopMcateNm":null,"ogTitle":"[밥상마루] 두번 반죽해 더 쫄깃한 전통 떡국 164g * 4개","specialPriceTypeSeq":null},"sale":{"originPriceYn":"N","originPrice":null,"salePrice":10900,"discountYn":"N","discountPrice":0,"discountRate":0,"purchaseMinCount":1,"purchaseLimitYn":"N","purchaseLimitDuration":null,"purchaseLimitDay":null,"purchaseLimitCount":null,"salesCount":194,"refPriceType":"WMP","refPriceDate":null,"basketLimitYn":"N","affiPurchaseLimitYn":"N","couponNm":null,"couponPrice":null,"couponPriceDispYn":"N","couponPriceDispStartDt":null,"couponPriceDispEndDt":null,"priceComparison":null,"discount":null,"reserveSeq":0,"benefitPrice":9670,"benefitLabel":"할인혜택가","hasCoupon":true},"shipDispYn":"Y","ship":{"shipPolicyNo":92163,"bundleKind":"PRD","shipType":"FREE","freeCondition":0,"shipFee":0,"shipFeeDispYn":"Y","claimShipFee":3000,"shipMethod":"KP","diffYn":"N","diffCount":null,"prepaymentYn":"Y","releaseDay":1,"releaseTime":12,"holidayExceptYn":"Y","shipGuide":{"text":"내일 <strong>5/28(금) 발송</strong> 예정","sendDay":1,"priority":3},"shipArea":"WHOLE","jejuShipFee":3000,"islandMountainShipFee":4000},"detail":{"imgList":[{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_wmx0smahlspy.jpg","imgWidth":758,"imgHeight":1748},{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_nwnwg6krbx5y.jpg","imgWidth":758,"imgHeight":1522},{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_dpjdu7icqkpa.jpg","imgWidth":758,"imgHeight":1454},{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_j5xy17k5xkqe.jpg","imgWidth":758,"imgHeight":1064},{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_rsge42a0kzdz.jpg","imgWidth":758,"imgHeight":1552},{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_kqgjniat7y9v.jpg","imgWidth":758,"imgHeight":1520},{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_kz4kgwx4k0vs.jpg","imgWidth":758,"imgHeight":1581}],"type":"IMG","desc":null},"etc":{"adultLimitYn":"N","localLiquorYn":"N","parallelImportYn":"N","originDispYn":"Y"},"option":{"sel":{"optUseYn":"N","optDepth":0,"optTitle":[],"valueList":[{"optNo":759698111,"optVal":null,"saleStatus":"A","optSalePrice":10900,"optAddPrice":0}]},"txt":{"optUseYn":"N","optDepth":0,"optTitle":[]}},"ticket":null,"local":null,"mainImgList":[{"origin":{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/pm_dle463sfdmc7.png","imgWidth":460,"imgHeight":460},"thumb":{"imgUrl":null,"imgWidth":70,"imgHeight":70}}],"labelList":[],"noticeGroupList":[{"gnoticeNm":"가공식품","noticeList":[{"noticeNm":"제품명","desc":"상품상세 설명 참고"},{"noticeNm":"식품의 유형","desc":"상품상세 설명 참고"},{"noticeNm":"생산자 및 소재지 (수입품의 경우 생산자, 수입자 및 제조국)","desc":"상품상세 설명 참고"},{"noticeNm":"제조연월일, 유통기한 또는 품질유지기한","desc":"상품상세 설명 참고"},{"noticeNm":"포장단위별 내용물의 용량(중량), 수량","desc":"상품상세 설명 참고"},{"noticeNm":"원재료명 및 함량 (농수산물의 원산지 표시에 관한 법률에 따른 원산지 표시 포함)","desc":"상품상세 설명 참고"},{"noticeNm":"영양성분(식품등의표시·광고에관한법률에 따른 영양성분 표시대상 식품에 한함)","desc":"상품상세 설명 참고"},{"noticeNm":"유전자변형식품에 해당하는 경우의 표시","desc":"상품상세 설명 참고"},{"noticeNm":"소비자안전을 위한 주의사항","desc":"상품상세 설명 참고"},{"noticeNm":"수입식품에 해당하는 경우 “수입식품안전관리특별법에 따른 수입신고를 필함”의 문구","desc":"상품상세 설명 참고"},{"noticeNm":"소비자상담 관련 전화번호","desc":"위메프 고객센터 1588-4763"}]}],"addition":null,"certList":[],"pnotice":{"wmpDesc":null,"sellerDesc":null},"partner":{"partnerNm":"광천김","partnerOwner":"김재유","businessNm":"광천김","partnerOwnerEmail":"thlee@kckim.com","infoCenter":"0000-1588-9235","addr":"충청남도 홍성군 은하면 장척리 94-1 (주)광천김","partnerNo":"310-81-23326","communityNotiNo":"2009-충남홍성-40","officialMallYn":"N","departmentYn":"N","mallNm":"광천김","mallUrl":"kckim","mallUseYn":"Y"},"brandStore":null,"marketingNoticeList":[],"prodBannerList":[{"imgUrl":"https://view01.wemep.co.kr/wmp-product/7/146/1467/30voo1aer3dhnhif.jpg","imgWidth":640,"imgHeight":116,"linkType":"URL","linkInfo":"https://mw.wemakeprice.com/special/category/5002036"}],"sticker":null,"prodTimestamp":1616770803,"martProdBranch":null,"broadcast":null,"reserve":{"reserveSeq":0}},"labelInfoMap":null,"dealProdType":"NORMAL","dealProdGroups":null,"prodSimpleListMainProdIndex":0,"prodSimpleList":[{"prodNo":320418286,"prodNm":"[밥상마루] 두번 반죽해 더 쫄깃한 전통 떡국 164g * 4개","saleStatus":"A","basketLimitYn":"N","salePrice":10900,"discountYn":"N","discountPrice":0,"optUseYn":"N","optTextList":null,"labelNoList":null,"mainImg":{"thumb":{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_thumbnail.jpg?1615524445","imgWidth":70,"imgHeight":70},"wide":{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_wide.jpg?1615524445","imgWidth":580,"imgHeight":320},"largeImg":{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_large.jpg?1615524445","imgWidth":368,"imgHeight":368},"mediumImg":{"imgUrl":"https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_medium.jpg?1615524445","imgWidth":266,"imgHeight":266}},"mainYn":"Y","couponNm":null,"couponPrice":null,"couponPriceDispYn":"N"}],"dealTimestamp":1616770803,"specialPriceTypeSeq":null,"specialPriceType":null,"isPrevent":false}'));
-    GV.set('assistData', JSON.parse('{"cartQty":10,"liveCartQty":0,"wstyleQty":0,"user":{"mid":1728983,"userId":"khs85820","userName":"김효성","userNick":"","mobile":"010-9175-9339","email":"angkaris@naver.com","userType":1,"userStatus":1,"userIp":"172.26.11.167","certificateType":3,"isAdultCertificate":true}}'));
-    GV.set('isLogin', true);
-    GV.set('isNonLogin', false);
-    GV.set('urlRules', JSON.parse('{"PROD":"//front.wemakeprice.com/product/","DEAL":"//front.wemakeprice.com/deal/","ADSEARCH_API":"https://adcenter-search-api.wemakeprice.com/","EVENT":"//front.wemakeprice.com/event/","EXHIBIT":"//front.wemakeprice.com/promotion/","PROMOTION_GROUP":"//front.wemakeprice.com/promotion/group/","BRAND":"//front.wemakeprice.com/brand/","URL":"","LIVE_DEAL":"https://www.wemakeprice.com/deal/adeal/","LIVE_CATE":"https://www.wemakeprice.com/main/","DOMAINS":{"ESCROW":"//escrow.wemakeprice.com","BASE":"//front.wemakeprice.com","PARTNER":"//wpartner.wemakeprice.com","SEARCH":"//search.wemakeprice.com","LIVE_BASE":"https://www.wemakeprice.com","LIVE_USER":"//member.wemakeprice.com","LIVE_SEARCH":"http://search.wemakeprice.com","LIVE_PROMOTION":"http://promotion.wemakeprice.com","WONDER_SHOPPING":"https://www.wonder-shopping.com","WONDER_LOGIN":"https://login.wid.wemakeprice.com","ADSEARCH_API":"https://adcenter-search-api.wemakeprice.com/","WONDER_TOUR":"https://tour.wd.wemakeprice.com","WONDER_TOUR_MYPAGE":"https://mtour.wd.wemakeprice.com","TICKET":"https://ticket.wemakeprice.com","WMARS_API":"https://wmars-client.wemakeprice.com","W_TALK":"https://wtalk.wd.wemakeprice.com"},"BASE":"//front.wemakeprice.com","ESCROW":"//escrow.wemakeprice.com","CART":"//escrow.wemakeprice.com/cart/","ORDER":"//escrow.wemakeprice.com/order/","CS":"//front.wemakeprice.com/cs/","MAIN":"//front.wemakeprice.com/main","CATEGORY_GROUP":"//front.wemakeprice.com/category/group/","LCATE":"//front.wemakeprice.com/category/department/","MCATE":"//front.wemakeprice.com/category/division/","SCATE":"//front.wemakeprice.com/category/section/","BEST":"//front.wemakeprice.com/best","TODAYOPEN":"//front.wemakeprice.com/todayopen","WONDER":"//front.wemakeprice.com/wonder","WONDER_D":"//front.wemakeprice.com/wonder/division/","MART":"//front.wemakeprice.com/mart/","MART_D":"//front.wemakeprice.com/mart/division/","BIZ":"//front.wemakeprice.com/bizmall","BIZ_D":"//front.wemakeprice.com/bizmall/division/","BIZ_SEARCH":"//front.wemakeprice.com/bizmall/search","GLOBAL":"//front.wemakeprice.com/global","GLOBAL_D":"//front.wemakeprice.com/global/division/","SPECIAL_M":"//front.wemakeprice.com/special","SPECIAL_G":"//front.wemakeprice.com/special/group/","SPECIAL":"//front.wemakeprice.com/special/category/","SPECIAL_D":"//front.wemakeprice.com/special/division/","PARTNERMALL":"//front.wemakeprice.com/partnermall/","MYPAGE":"//front.wemakeprice.com/mypage/","USER":"//front.wemakeprice.com/user/","SEARCH":"//search.wemakeprice.com/search","TICKET":"https://ticket.wemakeprice.com/product/","TICKET_MYPAGE":"https://ticket.wemakeprice.com/mypage/","PARTNER":"//wpartner.wemakeprice.com/","PARTNERS":"//front.wemakeprice.com/partners/","TOUR":"https://tour.wd.wemakeprice.com/wmp/deal.html?dealId=","AFFILIATED":"//front.wemakeprice.com/guidebook/","LIVE_BASE":"https://www.wemakeprice.com/","LIVE_USER":"//member.wemakeprice.com/member/"}'));
-    GV.set('layoutTypes', JSON.parse('{"resources":"DEFAULT","header":"DEFAULT","footer":"DEFAULT","side":"DEFAULT","isFreeInner":false,"containerClass":"","metaInfoType":"DEAL"}'));
-    GV.set('ua', JSON.parse('{"family":"Chrome","major":"90","minor":"0","patch":"4430","device":{"family":"Other","major":"0","minor":"0","patch":"0"},"os":{"family":"Mac OS X","major":"10","minor":"15","patch":"7"}}'));
-    GV.set('urls', JSON.parse('{"LOG_DELIVERY_CLICK_USER":"https://ssl-api-log.wemakeprice.com/delivery_click_user.php","LOG_DELIVERY_CLICK_LOG":"https://ssl-api-log.wemakeprice.com/delivery_click_log.php","LOG_DELIVERY_CART_HISTORY":"https://api-log.wemakeprice.com/delivery_cart_history.php","LOG_MOLOCO_ADS_CLICK":"https://api-log.wemakeprice.com/ad_event.php","API_MOLOCO_ADS_TEMPLATE":"https://adservfnt-asia.adsmoloco.com/adserver?mobile_web=1","API_APP_ACCESS_TRACKING":"https://wmp-cloudapps.wemakeprice.com/trackinglog "}'));
-    GV.set('abtest', JSON.parse('{"1":"B","2":"A","3":"B","5":"B","6":"A","11":"A","12":"B","13":"A","15":"A","16":"A","17":"A","18":"A","19":"A","20":"B","21":"A","22":"C","23":"A","27":"A","28":"A","31":"A","33":"D","34":"B","35":"B","36":"A","37":"A","38":"B","39":"A","41":"B","43":"D","44":"A","45":"B","46":"A","47":"A","49":"A","52":"A","54":"A","56":"A","57":"A"}'));
-    GV.set('abtestLog', JSON.parse('{"version":"0.0.1","abTests":[{"key":"45","version":1,"variation":"B"}]}'));
-    GV.set('martBranchType', JSON.parse('"DAILY"'));
-    GV.set('prerenderDate', JSON.parse('{"years":"2021","months":"05","date":"27","hours":"12","minutes":"07","seconds":"27","milliseconds":"516","from":"remote","source":"2021-05-27T03:07:27.516Z"}'));
-    </script>
-      
-      
-      
-            <script src="//s.wemep.co.kr/front/v4.4.36/dist/pc/layout/layout-common.min.js"></script>
-      
-      
-      
-
-  </head>
-  <body>
+<body>
     <div id="wmpSkip">
     	<a href="#_gnb"><span>메뉴 바로가기</span></a>
     	<a href="#_container"><span>본문 바로가기</span></a>
@@ -138,61 +18,19 @@
         </div>
         
           
-          <div
-            class="mix_global_banner"
-            style="display:block;background: #ffa6a6"
-            id="_topBannerContainer"
-          >
+          <div class="mix_global_banner" style="display:block;background: #ffa6a6" id="_topBannerContainer">
             <div class="mix_inner"><img src="https://view01.wemep.co.kr/wmp-main/08/202105/26/pmt_1uxbpd3pixqs.jpg" alt="0527_12_슈타" usemap="#top_ban_map"></div>
-            <button
-              type="button"
-              class="mix_banner_close"
-              data-banner-seq="105730"
-              id="_topBannerCloseBtn"
-            >
+            <button type="button" class="mix_banner_close" data-banner-seq="105730" id="_topBannerCloseBtn">
               <span class="spr_mix mix_topbanner_close"></span>
             </button>
           </div>
           <map name="top_ban_map" id="_topBannerMapContainer">
-            <area
-              href="https://front.wemakeprice.com/special/group/4000104"
-              shape="poly"
-              coords="0,0,389,0,389,80,0,80"
-              alt="배너"
-              data-gtm-category="PC_공통"
-              data-gtm-action="탑라인배너_클릭"
-              data-gtm-label="0527_12_슈타"
-              data-gtm-index="1"
-              data-gtm-link-type="URL"
-              data-gtm-link-value="https://front.wemakeprice.com/special/group/4000104"
-            />
-            <area
-              href="https://front.wemakeprice.com/special/category/5000287"
-              shape="poly"
-              coords="389,0,737,0,737,80,389,80"
-              alt="배너"
-              data-gtm-category="PC_공통"
-              data-gtm-action="탑라인배너_클릭"
-              data-gtm-label="0527_12_슈타"
-              data-gtm-index="2"
-              data-gtm-link-type="URL"
-              data-gtm-link-value="https://front.wemakeprice.com/special/category/5000287"
-            />
-            <area
-              href="https://front.wemakeprice.com/special/group/4000036"
-              shape="poly"
-              coords="737,0,1084,0,1084,80,737,80"
-              alt="배너"
-              data-gtm-category="PC_공통"
-              data-gtm-action="탑라인배너_클릭"
-              data-gtm-label="0527_12_슈타"
-              data-gtm-index="3"
-              data-gtm-link-type="URL"
-              data-gtm-link-value="https://front.wemakeprice.com/special/group/4000036"
-            />
+            <area href="https://front.wemakeprice.com/special/group/4000104" shape="poly" coords="0,0,389,0,389,80,0,80" alt="배너" data-gtm-category="PC_공통" data-gtm-action="탑라인배너_클릭" data-gtm-label="0527_12_슈타" data-gtm-index="1" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000104">
+            <area href="https://front.wemakeprice.com/special/category/5000287" shape="poly" coords="389,0,737,0,737,80,389,80" alt="배너" data-gtm-category="PC_공통" data-gtm-action="탑라인배너_클릭" data-gtm-label="0527_12_슈타" data-gtm-index="2" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/category/5000287">
+            <area href="https://front.wemakeprice.com/special/group/4000036" shape="poly" coords="737,0,1084,0,1084,80,737,80" alt="배너" data-gtm-category="PC_공통" data-gtm-action="탑라인배너_클릭" data-gtm-label="0527_12_슈타" data-gtm-index="3" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000036">
           </map>
         
-        <div class="inner_top_wrap" >
+        <div class="inner_top_wrap">
           <div class="mix_inner mix_util_wrap">
             
             <ul class="mix_menu_util">
@@ -239,7 +77,7 @@
                     <li><a href="//front.wemakeprice.com/mypage/coupon" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="할인쿠폰">할인쿠폰</a></li>
                     <li><a href="//front.wemakeprice.com/mypage/point" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="포인트">포인트</a></li>
                     <li><a href="javascript:void(0);" data-id="wtalk" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="판매자톡">판매자톡</a></li>
-                    <li><a href="//front.wemakeprice.com/mypage/qna/list" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="상품 Q&A">상품 Q&amp;A</a></li>
+                    <li><a href="//front.wemakeprice.com/mypage/qna/list" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="상품 Q&amp;A">상품 Q&amp;A</a></li>
                     <li><a href="//front.wemakeprice.com/mypage/reviews" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="구매후기">구매후기</a></li>
                     <li><a href="javascript:void(0);" data-id="modifyUserBtn" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="회원정보수정">회원정보수정</a></li>
                 </ul>
@@ -254,25 +92,11 @@
           <div class="mix_inner mix_search_wrap">
             
             <h1 class="mix_logo">
-              <a href="http://www.wemakeprice.com"
-                
-                data-gtm-link-type="URL"
-                data-gtm-link-value="http://www.wemakeprice.com"
-                data-gtm-index="1"
-                data-gtm-category="PC_공통"
-                data-gtm-action="GNB_클릭"
-                data-gtm-label="메인로고">
-                <img src="https://view01.wemep.co.kr/wmp-main/26/202012/02/pmlm_rmvijbvzif75.png" alt="특가대표! 위메프"/>
+              <a href="http://www.wemakeprice.com" data-gtm-link-type="URL" data-gtm-link-value="http://www.wemakeprice.com" data-gtm-index="1" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="메인로고">
+                <img src="https://view01.wemep.co.kr/wmp-main/26/202012/02/pmlm_rmvijbvzif75.png" alt="특가대표! 위메프">
               </a>
-              <a href="javascript:void(0);"
-                style="cursor:default"
-                data-gtm-link-type="NONE"
-                data-gtm-link-value=""
-                data-gtm-index="2"
-                data-gtm-category="PC_공통"
-                data-gtm-action="GNB_클릭"
-                data-gtm-label="서브로고">
-                <img src="https://view01.wemep.co.kr/wmp-main/09/202007/14/pmls_etvwcu9pvtkg.png" alt="특가대표! 위메프"/>
+              <a href="javascript:void(0);" style="cursor:default" data-gtm-link-type="NONE" data-gtm-link-value="" data-gtm-index="2" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="서브로고">
+                <img src="https://view01.wemep.co.kr/wmp-main/09/202007/14/pmls_etvwcu9pvtkg.png" alt="특가대표! 위메프">
               </a>
             </h1>
         
@@ -281,45 +105,20 @@
               <form id="_topSearchForm">
                 <fieldset>
                   <legend class="blind">검색하기</legend>
-                  <div class="top_search"
-                    id="_searchContainer"
-                    data-recommend-keyword=""
-                    data-recommend-link="javascript:void(0);"
-                  >
+                  <div class="top_search" id="_searchContainer" data-recommend-keyword="" data-recommend-link="javascript:void(0);">
                     <div class="search_inner">
                       <div class="lay_ico ui_input_search">
-                        <input
-                          type="text"
-                          id="_searchKeyword"
-                          name="search_keyword"
-                          autocomplete="off"
-                          class="ui_input_text"
-                          size="5"
-                          title="검색어 입력"
-                          maxlength="50"
-                          value=""
-                          data-gtm-category="PC_공통"
-                          data-gtm-action="GNB_클릭"
-                          data-gtm-label="검색어입력창"
-                        >
+                        <input type="text" id="_searchKeyword" name="search_keyword" autocomplete="off" class="ui_input_text" size="5" title="검색어 입력" maxlength="50" value="" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="검색어입력창">
                         <a class="ui_input_clear ui_btn_icon_notext" href="javascript:void(0);" style="display:block;" id="_clearKeyword">
                           <span class="ui_btn_inner">
-                            <span class="lay_ico ui_icon"
-                              data-gtm-category="PC_공통"
-                              data-gtm-action="GNB_클릭"
-                              data-gtm-label="검색창검색어삭제">검색키워드 삭제</span>
+                            <span class="lay_ico ui_icon" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="검색창검색어삭제">검색키워드 삭제</span>
                           </span>
                         </a>
                       </div>
-                      <input type="hidden" name="search_cate" value="top" />
-                      <input type="hidden" name="_service" value="5" />
-                      <input type="hidden" name="_type" value="1" />
-                      <span class="btn_search" style="z-index: 5000;"><button type="button" id="_searchKeywordBtn"
-                        data-search-keyword-btn="searchKeywordBtn"
-                        data-gtm-category="PC_공통"
-                        data-gtm-action="GNB_클릭"
-                        data-gtm-label="검색창돋보기버튼"
-                        >검색</button></span>
+                      <input type="hidden" name="search_cate" value="top">
+                      <input type="hidden" name="_service" value="5">
+                      <input type="hidden" name="_type" value="1">
+                      <span class="btn_search" style="z-index: 5000;"><button type="button" id="_searchKeywordBtn" data-search-keyword-btn="searchKeywordBtn" data-gtm-category="PC_공통" data-gtm-action="GNB_클릭" data-gtm-label="검색창돋보기버튼">검색</button></span>
                     </div>
                   </div>
                 </fieldset>
@@ -334,102 +133,102 @@
                 <ul class="list_ad" data-slide="list">
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/special/category/5002286" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/55/202105/26/pmc_fzftz11sr025.png" alt="슬기로운여행주간" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/55/202105/26/pmc_fzftz11sr025.png" alt="슬기로운여행주간">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="//front.wemakeprice.com/promotion/8494" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/42/202105/25/pmc_ni9esnm28gq5.png" alt="일룸데이" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/42/202105/25/pmc_ni9esnm28gq5.png" alt="일룸데이">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/special/group/4000036" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/58/202105/21/pmc_dzzkh3gudam7.png" alt="베이비위크" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/58/202105/21/pmc_dzzkh3gudam7.png" alt="베이비위크">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="//front.wemakeprice.com/promotion/8259" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/56/202105/21/pmc_zv5d6cdj2i58.png" alt="Apple 사전예약" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/56/202105/21/pmc_zv5d6cdj2i58.png" alt="Apple 사전예약">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="//front.wemakeprice.com/promotion/2259" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/52/202105/21/pmc_r7qjyy8y1k04.png" alt="LG 가정의달 IT" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/52/202105/21/pmc_r7qjyy8y1k04.png" alt="LG 가정의달 IT">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="//front.wemakeprice.com/promotion/2339" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/12/202105/20/pmc_kcxtolqiihaf.png" alt="월간가전" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/12/202105/20/pmc_kcxtolqiihaf.png" alt="월간가전">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="//front.wemakeprice.com/product/1765957809" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/04/202105/04/pmc_y8vjwze84fhl.png" alt="머지포인트 20만원권" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/04/202105/04/pmc_y8vjwze84fhl.png" alt="머지포인트 20만원권">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://ticket.wemakeprice.com/event/329" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/12/202105/04/pmc_hfytdairqapj.png" alt="공연티켓 카드할인" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/12/202105/04/pmc_hfytdairqapj.png" alt="공연티켓 카드할인">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/kb_2021" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/01/202105/03/pmc_eaacideznn3e.png" alt="국민카드관" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/01/202105/03/pmc_eaacideznn3e.png" alt="국민카드관">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/nh2021" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/29/202105/07/pmc_ck9xbakgzxic.png" alt="믿고먹는 농협" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/29/202105/07/pmc_ck9xbakgzxic.png" alt="믿고먹는 농협">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/special/category/5001204" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/40/202104/30/pmc_upval992c8vm.png" alt="첫등록 슈퍼쿠폰몰" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/40/202104/30/pmc_upval992c8vm.png" alt="첫등록 슈퍼쿠폰몰">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/woori" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/29/202104/30/pmc_gmryvfzfw7fl.png" alt="우리카드 캐시백" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/29/202104/30/pmc_gmryvfzfw7fl.png" alt="우리카드 캐시백">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/kakao_promo" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/21/202104/22/pmc_jmvevhkq653y.png" alt="카카오페이 할인혜택" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/21/202104/22/pmc_jmvevhkq653y.png" alt="카카오페이 할인혜택">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/CHAI" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/46/202104/01/pmc_3zxzh5jxjqdy.png" alt="차이" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/46/202104/01/pmc_3zxzh5jxjqdy.png" alt="차이">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/7944" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/39/202104/01/pmc_bxvfhwij8yj8.png" alt="유아동 카드혜택" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/39/202104/01/pmc_bxvfhwij8yj8.png" alt="유아동 카드혜택">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/PAYCO_01" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/57/202103/09/pmc_m8vonzelvmi5.png" alt="페이코 슈퍼세이브" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/57/202103/09/pmc_m8vonzelvmi5.png" alt="페이코 슈퍼세이브">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/cardmall" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/58/202101/29/pmc_26od2hzt37t7.png" alt="언택트카드몰" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/58/202101/29/pmc_26od2hzt37t7.png" alt="언택트카드몰">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/wmppay_lt" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/23/202104/02/pmc_taitockslxnu.png" alt="위메프페이롯데" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/23/202104/02/pmc_taitockslxnu.png" alt="위메프페이롯데">
                       </a>
                     </li>
                     <li data-slide="page">
                       <a href="https://front.wemakeprice.com/promotion/group/159" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/24/202105/11/pmc_cdb1ei0nfghf.png" alt="위메프페이신한" />
+                        <img src="https://view01.wemep.co.kr/wmp-main/24/202105/11/pmc_cdb1ei0nfghf.png" alt="위메프페이신한">
                       </a>
                     </li>
                     <li data-slide="page">
-                      <a href="https://front.wemakeprice.com/benefitzone?tab&#x3D;benefit" target="_blank">
-                        <img src="https://view01.wemep.co.kr/wmp-main/45/202009/11/pmc_duv7xtj21rat.png" alt="위메프 카드혜택" />
+                      <a href="https://front.wemakeprice.com/benefitzone?tab=benefit" target="_blank">
+                        <img src="https://view01.wemep.co.kr/wmp-main/45/202009/11/pmc_duv7xtj21rat.png" alt="위메프 카드혜택">
                       </a>
                     </li>
                 </ul>
@@ -449,124 +248,47 @@
               <div class="gnb">
                 <ul>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="추천"
-                      data-gtm-index="1"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/main"
-                      href="https://front.wemakeprice.com/main" class="t_bold" style="font-size:12px">추천
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="추천" data-gtm-index="1" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/main" href="https://front.wemakeprice.com/main" class="t_bold" style="font-size:12px">추천
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="특가"
-                      data-gtm-index="2"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000000"
-                      href="https://front.wemakeprice.com/special/group/4000000" class="t_bold" style="font-size:12px">특가
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="특가" data-gtm-index="2" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000000" href="https://front.wemakeprice.com/special/group/4000000" class="t_bold" style="font-size:12px">특가
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="베이비위크"
-                      data-gtm-index="3"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000036"
-                      href="https://front.wemakeprice.com/special/group/4000036" class="t_bold" style="font-size:12px">베이비위크
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="베이비위크" data-gtm-index="3" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000036" href="https://front.wemakeprice.com/special/group/4000036" class="t_bold" style="font-size:12px">베이비위크
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="베스트"
-                      data-gtm-index="4"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/best"
-                      href="https://front.wemakeprice.com/best" class="t_bold" style="font-size:12px">베스트
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="베스트" data-gtm-index="4" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/best" href="https://front.wemakeprice.com/best" class="t_bold" style="font-size:12px">베스트
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="기획전"
-                      data-gtm-index="5"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000126"
-                      href="https://front.wemakeprice.com/special/group/4000126" class="t_bold" style="font-size:12px">기획전
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="기획전" data-gtm-index="5" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000126" href="https://front.wemakeprice.com/special/group/4000126" class="t_bold" style="font-size:12px">기획전
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="발견"
-                      data-gtm-index="6"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000119"
-                      href="https://front.wemakeprice.com/special/group/4000119" class="t_bold" style="font-size:12px">발견
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="발견" data-gtm-index="6" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000119" href="https://front.wemakeprice.com/special/group/4000119" class="t_bold" style="font-size:12px">발견
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="스토어"
-                      data-gtm-index="7"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000158"
-                      href="https://front.wemakeprice.com/special/group/4000158" class="t_bold" style="font-size:12px">스토어
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="스토어" data-gtm-index="7" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000158" href="https://front.wemakeprice.com/special/group/4000158" class="t_bold" style="font-size:12px">스토어
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="슈퍼쿠폰"
-                      data-gtm-index="8"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000038"
-                      href="https://front.wemakeprice.com/special/group/4000038" class="t_bold" style="font-size:12px">슈퍼쿠폰
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="슈퍼쿠폰" data-gtm-index="8" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000038" href="https://front.wemakeprice.com/special/group/4000038" class="t_bold" style="font-size:12px">슈퍼쿠폰
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="갓신선"
-                      data-gtm-index="9"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/special/group/4000124"
-                      href="https://front.wemakeprice.com/special/group/4000124" class="t_bold" style="font-size:12px">갓신선
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="갓신선" data-gtm-index="9" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/special/group/4000124" href="https://front.wemakeprice.com/special/group/4000124" class="t_bold" style="font-size:12px">갓신선
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="새벽/당일배송"
-                      data-gtm-index="10"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="https://front.wemakeprice.com/mart/GS_FRESH"
-                      href="https://front.wemakeprice.com/mart/GS_FRESH" class="t_bold" style="font-size:12px">새벽/당일배송
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="새벽/당일배송" data-gtm-index="10" data-gtm-link-type="URL" data-gtm-link-value="https://front.wemakeprice.com/mart/GS_FRESH" href="https://front.wemakeprice.com/mart/GS_FRESH" class="t_bold" style="font-size:12px">새벽/당일배송
                     </a>
                   </li>
                   <li>
-                    <a
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="GNB메뉴바_클릭"
-                      data-gtm-label="상생마켓"
-                      data-gtm-index="11"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="http://www.wemakeprice.com/promotions/main"
-                      href="http://www.wemakeprice.com/promotions/main" class="t_bold" style="font-size:12px">상생마켓
+                    <a data-gtm-category="PC_공통" data-gtm-action="GNB메뉴바_클릭" data-gtm-label="상생마켓" data-gtm-index="11" data-gtm-link-type="URL" data-gtm-link-value="http://www.wemakeprice.com/promotions/main" href="http://www.wemakeprice.com/promotions/main" class="t_bold" style="font-size:12px">상생마켓
                     </a>
                   </li>
                 </ul>
@@ -628,15 +350,7 @@
       </div>
           <div class="related_store">
             <strong class="store_name">광천김</strong>
-            <a href="//front.wemakeprice.com/partnermall/kckim"
-              class="store_more"
-              target="_blank"
-              data-gtm-category="PC_상세"
-              data-gtm-action="요약정보_클릭"
-              data-gtm-label="스토어바로가기"
-              data-gtm-link-type="URL"
-              data-gtm-link-value="//front.wemakeprice.com/partnermall/kckim"
-            >상품 더보기
+            <a href="//front.wemakeprice.com/partnermall/kckim" class="store_more" target="_blank" data-gtm-category="PC_상세" data-gtm-action="요약정보_클릭" data-gtm-label="스토어바로가기" data-gtm-link-type="URL" data-gtm-link-value="//front.wemakeprice.com/partnermall/kckim">상품 더보기
             </a>
           </div>
     </div>
@@ -660,7 +374,7 @@
                   </span>
                   <span class="zzim clear" data-ui="prodLikeOff">
                     <span class="clear not">찜 취소!</span>
-                    <span>마이페이지 찜 리스트에서<br />삭제되었습니다.</span>
+                    <span>마이페이지 찜 리스트에서<br>삭제되었습니다.</span>
                   </span>
                 </span>
               </span>
@@ -688,7 +402,7 @@
         <p>01. [밥상마루] 두번 반죽해 더 쫄깃한 전통 떡국 164g * 4개 기준</p>
       </div>
 
-      <div class="info_product " data-option-info>
+      <div class="info_product " data-option-info="">
         <div class="price">
             <div class="sale_box">
               <strong class="sale_price"><em class="num">{onload..}</em>원</strong>
@@ -741,9 +455,9 @@
           <dl class="info_price coupon">
             <dt class="ico">쿠폰</dt>
             <dd>
-              <div class="tooltip_btn" id="_infoAreaCoupon" data-coupon-down-on data-ui="tooltip">
+              <div class="tooltip_btn" id="_infoAreaCoupon" data-coupon-down-on="" data-ui="tooltip">
                 <a href="javascript:void(0);" class="btn_layer_info" data-coupon-down-button="on" data-gtm-category="PC_상세" data-gtm-action="요약정보_클릭" data-gtm-label="쿠폰다운받기">쿠폰 다운받기</a>
-                <div data-coupon-down-list></div>
+                <div data-coupon-down-list=""></div>
               </div>
             </dd>
           </dl>
@@ -753,7 +467,7 @@
             <dd>
               
               <div>
-                </em>
+                
               
                 
               
@@ -764,7 +478,7 @@
                 
               
                 <span class="line">ㅣ</span>도서산간 배송비
-                <div class="tooltip_btn"  data-expansion="areaSurchargeTooltip" data-expansion-active-class="on">
+                <div class="tooltip_btn" data-expansion="areaSurchargeTooltip" data-expansion-active-class="on">
                   <a href="javascript:void(0);" class="btn_layer_info" data-role="expansion" data-expansion-target="areaSurchargeTooltip" data-expansion-type="tooltip"><span class="ico">i</span></a>
                   <div><!-- 개발용 div -->
                     <div class="txt_tooltip">
@@ -804,7 +518,7 @@
               
               
                   </span>
-                  <br />
+                  <br>
                   <span class="text_etc">
                   
                   
@@ -879,16 +593,8 @@
         <div class="rolling_banner" data-slide="wrapper">
           <div class="wrap_banner">
             <ul class="list_banner" data-slide="list">
-              <li data-slide-index=0>
-                <a href="https://mw.wemakeprice.com/special/category/5002036"
-                  target="_blank"
-                  data-gtm-category="PC_상세"
-                  data-gtm-action="롤링배너_클릭"
-                  data-gtm-label=""
-                  data-gtm-index="1"
-                  data-gtm-link-type="URL"
-                  data-gtm-link-value="https://mw.wemakeprice.com/special/category/5002036"
-                >
+              <li data-slide-index="0">
+                <a href="https://mw.wemakeprice.com/special/category/5002036" target="_blank" data-gtm-category="PC_상세" data-gtm-action="롤링배너_클릭" data-gtm-label="" data-gtm-index="1" data-gtm-link-type="URL" data-gtm-link-value="https://mw.wemakeprice.com/special/category/5002036">
                   <img src="https://view01.wemep.co.kr/wmp-product/7/146/1467/30voo1aer3dhnhif.jpg" alt="" width="552px">
                 </a>
               </li>
@@ -943,7 +649,7 @@
     </div>
 
     <div class="detail_left" data-container="detailLeft">
-      <div class="bookm_conts" data-position-clip-contents></div>
+      <div class="bookm_conts" data-position-clip-contents=""></div>
 
       <div class="prd_detail">
         <div id="_productInfo" class="tab_conts" data-wscrollspy-section="productList">
@@ -977,7 +683,7 @@
                 <div class="thumselbox_comm" data-preview="pass" data-container="dealInfoSelectBox">
                   <a href="javascript:void(0);" class="btn_option ico" data-option-btn="open">
                       <div class="selected_img">
-                        <img src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_thumbnail.jpg?1615524445" alt="" />
+                        <img src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_thumbnail.jpg?1615524445" alt="">
                       </div>
                       <div class="selected_text ">
                         <span class="memo">
@@ -992,9 +698,9 @@
                   <ul class="list_option" data-selectbox="list">
                     
                     <li data-option="list">
-                      <a href="javascript:void(0);" data-prod-no="320418286" data-index=0>
+                      <a href="javascript:void(0);" data-prod-no="320418286" data-index="0">
                         <div class="selected_img">
-                          <img src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_thumbnail.jpg?1615524445" alt="" />
+                          <img src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/320418286_thumbnail.jpg?1615524445" alt="">
                         </div>
                         <div class="selected_text ">
                           <span class="memo">
@@ -1026,13 +732,13 @@
               
               
                 <div class="detail_img" data-container="detailImg">
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_wmx0smahlspy.jpg" alt="상세정보" />
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_nwnwg6krbx5y.jpg" alt="상세정보" />
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_dpjdu7icqkpa.jpg" alt="상세정보" />
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_j5xy17k5xkqe.jpg" alt="상세정보" />
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_rsge42a0kzdz.jpg" alt="상세정보" />
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_kqgjniat7y9v.jpg" alt="상세정보" />
-                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_kz4kgwx4k0vs.jpg" alt="상세정보" />
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_wmx0smahlspy.jpg" alt="상세정보">
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_nwnwg6krbx5y.jpg" alt="상세정보">
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_dpjdu7icqkpa.jpg" alt="상세정보">
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_j5xy17k5xkqe.jpg" alt="상세정보">
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_rsge42a0kzdz.jpg" alt="상세정보">
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_kqgjniat7y9v.jpg" alt="상세정보">
+                  <img class="motion-fade" data-lazy-src="https://view01.wemep.co.kr/wmp-product/6/828/320418286/pd_kz4kgwx4k0vs.jpg" alt="상세정보">
                 </div>
               
               </div>
@@ -1101,7 +807,7 @@
                             
                           <th></th>
                           <td></td>
-                        </tbody>
+                        </tr></tbody>
                       </table>
                     </div>
                   </li>
@@ -1185,7 +891,7 @@
                           
               
                           <span class="line">ㅣ</span>도서산간 배송비
-                          <div class="tooltip_btn"  data-expansion="areaSurchargeTooltip92163" data-expansion-active-class="on">
+                          <div class="tooltip_btn" data-expansion="areaSurchargeTooltip92163" data-expansion-active-class="on">
                             <a href="javascript:void(0);" class="btn_layer_info" data-role="expansion" data-expansion-target="areaSurchargeTooltip92163" data-expansion-type="tooltip"><span class="ico">i</span></a>
                             <div><!-- 개발용 div -->
                               <div class="txt_tooltip">
@@ -1385,9 +1091,7 @@
               <div class="bank_info">
                 <span>
                   우리은행 채무 지급보증 안내
-                  <a href="javascript:void(0);"
-                    onclick="window.open('https://image.wemakeprice.com/images/resources_v2/front/common/footer-security-2020.jpg','mark','scrollbars=no,resizable=no,width=580,height=820');"><span
-                      class="underline">서비스가입사실확인</span> &gt; </a>
+                  <a href="javascript:void(0);" onclick="window.open('https://image.wemakeprice.com/images/resources_v2/front/common/footer-security-2020.jpg','mark','scrollbars=no,resizable=no,width=580,height=820');"><span class="underline">서비스가입사실확인</span> &gt; </a>
                 </span>
                 <ul class="list_type">
                   <li>당사는 고객님이 현금 결제한 금액에 대해 우리은행과 채무지급보증 계약을 체결하여 안전거래를 보장하고 있습니다.</li>
@@ -1407,11 +1111,11 @@
                   </colgroup>
                   <tbody>
                     <tr>
-                      <th>재화 등의 공급방법 및<br />공급시기</th>
+                      <th>재화 등의 공급방법 및<br>공급시기</th>
                       <td>배송방식 및 출고일 등은 상품 상세페이지 참조</td>
                     </tr>
                     <tr>
-                      <th>청약철회 등에 관한<br />사항</th>
+                      <th>청약철회 등에 관한<br>사항</th>
                       <td>
                         <ol class="table_oli">
                           <li>1. 단순변심, 착오구매 등에 따른 청약철회는 재화 구매 계약 체결에 대한 수신확인 통지 받은 날로부터 7일 이내 가능하며 반품비용은 소비자가 부담함</li>
@@ -1477,17 +1181,17 @@
       <div data-container="adCenter" data-contextmenu="disable" class="oper_prd_wrap" style="display:none"></div>
     </div>
     <div class="detail_right">
-      <div class="prdc_wrap" data-container="prdc_wrap" data-wscrollspy-addition>
+      <div class="prdc_wrap" data-container="prdc_wrap" data-wscrollspy-addition="">
         <div class="prdc_area_btn">
           <a class="op_btn" data-preview="pass" data-option-btn="rightClose"><span class="ico">옵션열기</span></a>
           <div class="clip" data-container="position_clip">
             <span class="btn">위치클립</span>
-            <a class="clip_plus btn" data-position-clip-add>클립추가</a>
+            <a class="clip_plus btn" data-position-clip-add="">클립추가</a>
             <a class="clip_mark ty1" style="display:none;" data-index="1">1<span class="blind">번째 클립</span></a>
           </div>
         </div>
 
-        <div id="_dimmed" class='dimmed' data-option-btn="closeupViewClose"></div>
+        <div id="_dimmed" class="dimmed" data-option-btn="closeupViewClose"></div>
         <div class="popup_box">
           <div id="_closeupView" class="view_popup" data-container="closeup">
             <div class="popup_conts" data-option="optionView">
@@ -1562,15 +1266,7 @@
               <div class="side_todayview" id="_sideInfo">
                 <div class="todayview_inner">
                   <div class="box_basket">
-                    <a
-                      href="//escrow.wemakeprice.com/cart/cartList"
-                      class="lay_ico link_basket"
-                      data-gtm-category="PC_공통"
-                      data-gtm-action="우측날개_클릭"
-                      data-gtm-label="장바구니"
-                      data-gtm-link-type="URL"
-                      data-gtm-link-value="//escrow.wemakeprice.com/cart/cartList"
-                    >
+                    <a href="//escrow.wemakeprice.com/cart/cartList" class="lay_ico link_basket" data-gtm-category="PC_공통" data-gtm-action="우측날개_클릭" data-gtm-label="장바구니" data-gtm-link-type="URL" data-gtm-link-value="//escrow.wemakeprice.com/cart/cartList">
                       <span>장바구니</span>
                     </a>
                   </div>
@@ -1582,7 +1278,7 @@
               
                       <div id="_receneListContainer"></div>
                       <div class="no_list" id="_recentNoList" style="display:none;">
-                        최근 본 상품이 <br/>없습니다.
+                        최근 본 상품이 <br>없습니다.
                       </div>
               
                       <div class="today_paging">
@@ -1720,9 +1416,9 @@
     
     
         
-        <img height='0' width='0' style='border-style:none;display:none' alt='' src='https://ssl-api-log.wemakeprice.com/delivery_click_user.php?m_id=1728983&wmp_pcstamp=1613478503194046800'>
+        <img height="0" width="0" style="border-style:none;display:none" alt="" src="https://ssl-api-log.wemakeprice.com/delivery_click_user.php?m_id=1728983&amp;wmp_pcstamp=1613478503194046800">
       
-      <img height='0' width='0' style='border-style:none;display:none' alt='' src='https://ssl-api-log.wemakeprice.com/delivery_click_log.php?platform=pc&id=600143573&menu_loc_id=2&wmp_pcstamp=1613478503194046800&service_type=4&type=0'>
+      <img height="0" width="0" style="border-style:none;display:none" alt="" src="https://ssl-api-log.wemakeprice.com/delivery_click_log.php?platform=pc&amp;id=600143573&amp;menu_loc_id=2&amp;wmp_pcstamp=1613478503194046800&amp;service_type=4&amp;type=0">
       
     
     
@@ -1799,10 +1495,11 @@
     <script>
       window.onload = function() {
         // 최초 한번만 실행하도록 처리 .
-        var dom = $('.price .sale_box .sale_price .num');
-        dom[0].innerText = '100,000'
+        var dom = document.querySelector('.price .sale_box .sale_price .num');
+        dom.innerText = '100,000'
       }
     </script>
     
-  </body>
-</html>
+  
+
+</body>

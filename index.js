@@ -1,8 +1,9 @@
 
 const express = require('express')
+const jsdom = require("jsdom");
+
 const fs = require('fs-extra')
 const app = express()
-
 const Crawler = require("crawler");
 
 const env = {
@@ -26,6 +27,9 @@ app.get('/target/:type', (req, res) => {
   const { type = 'target' } = req.params;
   fs.writeJSONSync('./header.json', req.headers)
   switch (type) {
+    case 'csr':
+      res.sendFile(`${__dirname}/csr.html`)
+      break;
     case 'load':
       res.sendFile(`${__dirname}/onload.html`)
       break;
@@ -47,20 +51,39 @@ app.get('/crawler', (req, res) => {
   });
   c.queue([{
     uri: target.concat(type),
-    jQuery: true,
+    jQuery: jsdom,
     referer: 'https://front.wemakeprice.com/main',
     // The global callback won't be called
     callback: function (error, data, done) {
       if (error) {
-          console.log(error)
-          res.send('error')
+        console.log(error)
+        res.send('error')
       } else {
-          const $ = data.$;
-          // fs.writeFileSync('./output.txt', data.body)
-          const priceDom = $('.price .sale_box .sale_price .num');
-          res.send(`가격정보: ${priceDom.text()}`)
+        try {
+          const { JSDOM } = jsdom;
+          const { window } = new JSDOM(data.body, { runScripts: "dangerously" });
+          switch (type) {
+            case 'csr':
+              
+              // window.onload();
+              break;
+            case 'load':
+              window.onload();
+              break;
+            default:
+              window.onmousemove()
+              break;
+          }
+          const priceDom = window.document.querySelector('.price .sale_box .sale_price .num').innerText;
+          console.log('::priceDom::', window.document.querySelector('.price .sale_box .sale_price .num'))
+          res.send(`가격정보: ${priceDom}`)
+          
+        } catch (err) {
+          console.error('error:::',err);
+          res.send(`error`);
         }
         done();
+      }
     }
   }]);
 
