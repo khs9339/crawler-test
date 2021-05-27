@@ -1,5 +1,6 @@
 
 const express = require('express')
+const puppeteer = require('puppeteer')
 const fs = require('fs-extra')
 const app = express()
 
@@ -26,6 +27,9 @@ app.get('/target/:type', (req, res) => {
   const { type = 'target' } = req.params;
   fs.writeJSONSync('./header.json', req.headers)
   switch (type) {
+    case 'csr':
+      res.sendFile(`${__dirname}/csr.html`)
+      break;
     case 'load':
       res.sendFile(`${__dirname}/onload.html`)
       break;
@@ -66,6 +70,17 @@ app.get('/crawler', (req, res) => {
 
 })
 
+app.get('/puppeteer', async (req, res) => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  const response = await page.goto('http://localhost:3000/target/csr');
+  const html = await response.text();
+  await page.waitForTimeout(2000)
+  const [getXpath] = await page.$x('//*[@id="_infoDescription"]/div[3]/div[1]/div/strong/em')
+  const getMsg = await page.evaluate(name => name.innerText, getXpath);
+  await browser.close();
+  res.send(`puppeteer:: ${getMsg}`)
+})
 // module.exports = router = app
 // app.listen(port, () => {
 //   console.log(`Example app listening at http://localhost:${port}`)

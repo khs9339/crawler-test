@@ -1783,10 +1783,10 @@
     
     <script>
         // 최초 한번만 실행하도록 처리 .
-        setTimeout(() => {
+        fetch('/').then(() => {
           var dom = document.querySelector('.price .sale_box .sale_price .num');
           dom.innerText = '555,555'
-        }, 1000)
+        })
     </script>
     
   </body>
