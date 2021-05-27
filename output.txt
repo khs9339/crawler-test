@@ -405,7 +405,7 @@
       <div class="info_product " data-option-info="">
         <div class="price">
             <div class="sale_box">
-              <strong class="sale_price"><em class="num">{onload..}</em>원</strong>
+              <strong class="sale_price"><em class="num">{loading..}</em>원</strong>
               <div class="tooltip">
                 <span class="tooltip_text">
                   <p>
@@ -1493,11 +1493,11 @@
     
     
     <script>
-      window.onload = function() {
         // 최초 한번만 실행하도록 처리 .
-        var dom = document.querySelector('.price .sale_box .sale_price .num');
-        dom.innerText = '100,000'
-      }
+        setTimeout(() => {
+          var dom = document.querySelector('.price .sale_box .sale_price .num');
+          dom.innerText = '555,555'
+        }, 3000)
     </script>
     
   

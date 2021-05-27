@@ -89,10 +89,6 @@ app.get('/crawler', (req, res) => {
 
 })
 
-// module.exports = router = app
-// app.listen(port, () => {
-//   console.log(`Example app listening at http://localhost:${port}`)
-// })
 const port = process.env.PORT || 3000;
 app.listen(port, function () {
   console.log('NODE_ENV', process.env.NODE_ENV);

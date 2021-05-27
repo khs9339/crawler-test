@@ -1784,10 +1784,11 @@
     <script>
       window.onload = function() {
         // 최초 한번만 실행하도록 처리 .
-        setTimeout(() => {
+        // setTimeout(() => {
           var dom = document.querySelector('.price .sale_box .sale_price .num');
           dom.innerText = '100,000'
-        }, 0)
+        // }, 0);
+        console.log('console.log:::', 'onload.html')
       }
     </script>
     
