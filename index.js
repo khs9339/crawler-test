@@ -42,7 +42,7 @@ app.get('/crawler', (req, res) => {
           res.send('error')
       } else {
           const $ = data.$;
-          fs.writeFileSync('./output.txt', data.body)
+          // fs.writeFileSync('./output.txt', data.body)
           const priceDom = $('.price .sale_box .sale_price .num');
           res.send(`가격정보: ${priceDom.text()}`)
         }
