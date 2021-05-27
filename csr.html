@@ -1783,9 +1783,12 @@
     
     <script>
         // 최초 한번만 실행하도록 처리 .
-        fetch('/').then(() => {
+        fetch('/price')
+        .then(res => res.json())
+        .then((data) => {
+          console.log(data)
           var dom = document.querySelector('.price .sale_box .sale_price .num');
-          dom.innerText = '555,555'
+          dom.innerText = data?.price || 0
         })
     </script>
     

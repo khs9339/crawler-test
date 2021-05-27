@@ -20,6 +20,12 @@ app.get('/', (req, res) => {
   res.send('Hello Crawler Test')
 })
 
+app.get('/price', (req, res) => {
+  res.json({
+    price: parseInt(Math.random() * 1000000)
+  })
+})
+
 app.get('/wmp', (req, res) => {
   res.sendFile(`${__dirname}/target.html`)
 })
