@@ -691,7 +691,7 @@
       <div class="info_product " data-option-info>
         <div class="price">
             <div class="sale_box">
-              <strong class="sale_price"><em class="num">{skeleton..}</em>원</strong>
+              <strong class="sale_price"><em class="num">{mousemove..}</em>원</strong>
               <div class="tooltip">
                 <span class="tooltip_text">
                   <p>
@@ -1797,7 +1797,7 @@
     
     
     <script>
-      document.onmouseover = function() {
+      window.onmousemove = function() {
         // 최초 한번만 실행하도록 처리 .
         var dom = $('.price .sale_box .sale_price .num');
         dom[0].innerText = '100,000'
