@@ -44,7 +44,7 @@ app.get('/crawler', (req, res) => {
           const $ = data.$;
           fs.writeFileSync('./output.txt', data.body)
           const priceDom = $('.price .sale_box .sale_price .num');
-          res.send(priceDom.text())
+          res.send(`가격정보: ${priceDom.text()}`)
         }
         done();
     }
