@@ -5,6 +5,15 @@ const app = express()
 
 const Crawler = require("crawler");
 
+const env = {
+  product: {
+    target: 'https://mock-app.herokuapp.com/target/'
+  },
+  development: {
+    target: 'http://localhost:3000/target/'
+  }
+}
+
 app.get('/', (req, res) => {
   res.send('Hello Crawler Test')
 })
@@ -28,7 +37,7 @@ app.get('/target/:type', (req, res) => {
 
 app.get('/crawler', (req, res) => {
   const { type = 'wmp' } = req.query;
-  const target = 'http://localhost:3000/target/' || 'https://mock-app.herokuapp.com/target/';
+  const { target } = env[process.env.NODE_ENV];
   const c = new Crawler({
     maxConnections: 10,
     headers: {
@@ -47,7 +56,7 @@ app.get('/crawler', (req, res) => {
           res.send('error')
       } else {
           const $ = data.$;
-          fs.writeFileSync('./output.txt', data.body)
+          // fs.writeFileSync('./output.txt', data.body)
           const priceDom = $('.price .sale_box .sale_price .num');
           res.send(`가격정보: ${priceDom.text()}`)
         }
@@ -62,6 +71,7 @@ app.get('/crawler', (req, res) => {
 //   console.log(`Example app listening at http://localhost:${port}`)
 // })
 const port = process.env.PORT || 3000;
-app.listen(port, function(){
+app.listen(port, function () {
+  console.log('NODE_ENV', process.env.NODE_ENV);
   console.log('server on! http://localhost:'+port);
 });
