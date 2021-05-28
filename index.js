@@ -106,6 +106,7 @@ app.get('/crawler', (req, res) => {
 
 app.get('/puppeteer', async (req, res) => {
   const browser = await puppeteer.launch();
+  await browser.userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36")
   const page = await browser.newPage();
   const { target } = env[process.env.NODE_ENV];
   const response = await page.goto(target.concat('csr'));
