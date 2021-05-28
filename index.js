@@ -83,10 +83,6 @@ app.get('/crawler', (req, res) => {
           const { JSDOM } = jsdom;
           const { window } = new JSDOM(data.body, { runScripts: "dangerously" });
           switch (type) {
-            case 'csr':
-              
-              // window.onload();
-              break;
             case 'load':
               window.onload();
               break;
