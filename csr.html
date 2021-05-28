@@ -1786,9 +1786,14 @@
         fetch('/price')
         .then(res => res.json())
         .then((data) => {
-          console.log(data)
-          var dom = document.querySelector('.price .sale_box .sale_price .num');
-          dom.innerText = data?.price || 0
+          const position = 'position: fixed; top: 432px; left: calc(50% - 10px);';
+          document.querySelector('.price .sale_box .sale_price .num').innerText = '';
+          var em = document.createElement('em');
+          em.style.cssText = 'font-size: 30px;line-height: 34px;color: inherit;vertical-align: top; font-family: tahoma,Dotum; font-weight: 700; visibility: hidden;' + position
+          em.innerText = data?.price || 0
+          document.body.append(em);
+          document.querySelector('.price .sale_box .sale_price').style.paddingLeft = (em.offsetWidth + 1)+'px';
+          em.style.visibility = '';
         })
     </script>
     

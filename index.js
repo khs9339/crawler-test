@@ -7,6 +7,19 @@ const fs = require('fs-extra')
 const app = express()
 const Crawler = require("crawler");
 
+function number_format(args){
+  const input = String(args);
+  const reg = /(\-?\d+)(\d{3})($|\.\d+)/;
+  if(reg.test(input)){
+      return input.replace(reg, function(str, p1,p2,p3){
+              return number_format(p1) + "," + p2 + "" + p3;
+          }
+      );
+  }else{
+      return input;
+  }
+}
+
 const env = {
   product: {
     target: 'https://mock-app.herokuapp.com/target/'
@@ -22,7 +35,7 @@ app.get('/', (req, res) => {
 
 app.get('/price', (req, res) => {
   res.json({
-    price: parseInt(Math.random() * 1000000)
+    price: number_format(parseInt(Math.random() * 1000000))
   })
 })
 
