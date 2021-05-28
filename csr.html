@@ -1786,6 +1786,7 @@
         fetch('/price')
         .then(res => res.json())
         .then((data) => {
+          // TODO::Random 추가 코드 설정
           const position = 'position: fixed; top: 432px; left: calc(50% - 10px);';
           document.querySelector('.price .sale_box .sale_price .num').innerText = '';
           var em = document.createElement('em');
