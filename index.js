@@ -53,6 +53,9 @@ app.get('/target/:type', (req, res) => {
     case 'load':
       res.sendFile(`${__dirname}/onload.html`)
       break;
+    case 'dom_load':
+      res.sendFile(`${__dirname}/dom_load.html`)
+      break;
     default:
       res.sendFile(`${__dirname}/target.html`)
       break
@@ -86,12 +89,17 @@ app.get('/crawler', (req, res) => {
             case 'load':
               window.onload();
               break;
-            default:
+            case 'dom_load':
+              console.log('dom_load::')
+              break;
+            case 'mouse':
               window.onmousemove()
               break;
           }
-          const priceDom = window.document.querySelector('.price .sale_box .sale_price .num').innerText;
-          res.send(`가격정보: ${priceDom}`)
+          setTimeout(() => { 
+            const priceDom = window.document.querySelector('.price .sale_box .sale_price .num').innerText;
+            res.send(`가격정보: ${priceDom}`)
+          }, 10)
           
         } catch (err) {
           console.error('error:::',err);
@@ -105,17 +113,22 @@ app.get('/crawler', (req, res) => {
 })
 
 app.get('/puppeteer', async (req, res) => {
-  const browser = await puppeteer.launch();
-  await browser.userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36")
-  const page = await browser.newPage();
-  const { target } = env[process.env.NODE_ENV];
-  const response = await page.goto(target.concat('csr'));
-  await response.text();
-  await page.waitForTimeout(2000)
-  const [getXpath] = await page.$x('//*[@id="_infoDescription"]/div[3]/div[1]/div/strong/em')
-  const getMsg = await page.evaluate(name => name.innerText, getXpath);
-  await browser.close();
-  res.send(`puppeteer:: ${getMsg}`)
+  try {
+    if (process.env.NODE_ENV === 'product' ) throw new Error('지원하지 않는 기능입니다. ')
+    const browser = await puppeteer.launch();
+    await browser.userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36")
+    const page = await browser.newPage();
+    const { target } = env[process.env.NODE_ENV];
+    const response = await page.goto(target.concat('csr'));
+    await response.text();
+    await page.waitForTimeout(2000)
+    const [getXpath] = await page.$x('//*[@id="_infoDescription"]/div[3]/div[1]/div/strong/em')
+    const getMsg = await page.evaluate(name => name.innerText, getXpath);
+    await browser.close();
+    res.send(`puppeteer:: ${getMsg}`)
+  } catch (err) {
+    res.send(err.message || 'Error')
+  }
 })
 // module.exports = router = app
 // app.listen(port, () => {
